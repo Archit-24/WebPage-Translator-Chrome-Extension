@@ -1,4 +1,4 @@
-# WebPage Trnslator Chrome Extension
+# WebPage Translator Chrome Extension
 
 Welcome to the Webpage Translator Chrome Extension! This extension allows users to translate entire web pages into their preferred language seamlessly. It leverages advanced translation APIs to provide accurate and fast translations, enhancing the browsing experience for users across the globe.
 
